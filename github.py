@@ -66,7 +66,7 @@ if cars==1:
                         print(y)
                  else:
                     print("ok")
-                    ex=int(input("do you need any extra specification: "))
+                 ex=int(input("do you need any extra specification: "))
                  if ex==1:
                       z=str(input("enter extra specification do u want :"))
                       print(z)
