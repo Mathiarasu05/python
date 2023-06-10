@@ -193,11 +193,11 @@ elif cars==3:
                          print("sorry!!!YOUR ORDER WAS CANCLED")
                      wc=int(input("do you want extra warranty press 0 or 1:"))
                      if wc==1:
-                            y=int(input("how many years do you want extra: "))
+                            y=int(input("how many years do you want extra : "))
                             print(y)
                      else:
                          print("ok")
-                     ex=int(input("do you need any extra specification: "))
+                     ex=int(input("do you need any extra specification press 0 or 1: "))
                      if ex==1:
                          z=str(input("enter extra specification do u want :"))
                          print(z)
@@ -274,7 +274,7 @@ elif cars==4:
                             print(y)
                      else:
                          print("ok")
-                     ex=int(input("do you need any extra specification: "))
+                     ex=int(input("do you need any extra specification press 0 or 1: "))
                      if ex==1:
                          z=str(input("enter extra specification do u want :"))
                          print(z)
@@ -297,7 +297,7 @@ elif cars==4:
                         print(y)
                  else:
                     print("ok")
-                 ex=int(input("do you need any extra specification: "))
+                 ex=int(input("do you need any extra specification press 0 or 1: "))
                  if ex==1:
                       z=str(input("enter extra specification do u want :"))
                       print(z)
@@ -351,7 +351,7 @@ elif cars==5:
                             print(y)
                      else:
                          print("ok")
-                     ex=int(input("do you need any extra specification: "))
+                     ex=int(input("do you need any extra specification press 0 or 1: "))
                      if ex==1:
                          z=str(input("enter extra specification do u want :"))
                          print(z)
@@ -428,7 +428,7 @@ elif cars==6:
                             print(y)
                      else:
                          print("ok")
-                     ex=int(input("do you need any extra specification: "))
+                     ex=int(input("do you need any extra specification press 0 or 1: "))
                      if ex==1:
                          z=str(input("enter extra specification do u want :"))
                          print(z)
@@ -451,7 +451,7 @@ elif cars==6:
                         print(y)
                  else:
                     print("ok")
-                 ex=int(input("do you need any extra specification: "))
+                 ex=int(input("do you need any extra specification press 0 or 1: "))
                  if ex==1:
                       z=str(input("enter extra specification do u want :"))
                       print(z)
@@ -505,7 +505,7 @@ elif cars==7:
                             print(y)
                      else:
                          print("ok")
-                     ex=int(input("do you need any extra specification: "))
+                     ex=int(input("do you need any extra specification press 0 or 1: "))
                      if ex==1:
                          z=str(input("enter extra specification do u want :"))
                          print(z)
@@ -528,7 +528,7 @@ elif cars==7:
                         print(y)
                  else:
                     print("ok")
-                 ex=int(input("do you need any extra specification: "))
+                 ex=int(input("do you need any extra specification press 0 or 1: "))
                  if ex==1:
                       z=str(input("enter extra specification do u want :"))
                       print(z)
@@ -582,7 +582,7 @@ elif cars==8:
                             print(y)
                      else:
                          print("ok")
-                     ex=int(input("do you need any extra specification: "))
+                     ex=int(input("do you need any extra specification press 0 or 1: "))
                      if ex==1:
                          z=str(input("enter extra specification do u want :"))
                          print(z)
@@ -605,7 +605,7 @@ elif cars==8:
                         print(y)
                  else:
                     print("ok")
-                 ex=int(input("do you need any extra specification: "))
+                 ex=int(input("do you need any extra specification press 0 or 1: "))
                  if ex==1:
                       z=str(input("enter extra specification do u want :"))
                       print(z)
@@ -682,7 +682,7 @@ elif cars==9:
                         print(y)
                  else:
                     print("ok")
-                 ex=int(input("do you need any extra specification: "))
+                 ex=int(input("do you need any extra specification press 0 or 1: "))
                  if ex==1:
                       z=str(input("enter extra specification do u want :"))
                       print(z)
@@ -736,7 +736,7 @@ elif cars==10:
                             print(y)
                      else:
                          print("ok")
-                     ex=int(input("do you need any extra specification: "))
+                     ex=int(input("do you need any extra specification press 0 or 1: "))
                      if ex==1:
                          z=str(input("enter extra specification do u want :"))
                          print(z)
@@ -759,7 +759,7 @@ elif cars==10:
                         print(y)
                  else:
                     print("ok")
-                 ex=int(input("do you need any extra specification: "))
+                 ex=int(input("do you need any extra specification press 0 or 1: "))
                  if ex==1:
                       z=str(input("enter extra specification do u want :"))
                       print(z)
